@@ -32,7 +32,7 @@ A test problem of rotor design optimization of a Synchronous Reluctance Machines
 The citation for the work:
   
   
-         @article{khan2020sequence,
+       @article{khan2020sequence,
        title={Sequence-Based Environment for Topology Optimization},
        author={Khan, Arbaaz and Midha, Chetan and Lowther, David Alister},
        journal={IEEE Transactions on Magnetics},
