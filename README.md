@@ -54,6 +54,7 @@ The citation for the work:
 
 **Additional Code in `development` branch**
 * This branch includes scripting code using open source EM solver : [FEMM](https://www.femm.info/wiki/HomePage)
+* Also contain code for MATLAB development with 3D printed steel - in folder: `matlab`.
 * Additional files are addded for design doamin of size:
   * 7X7
   * 8X8
