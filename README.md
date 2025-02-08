@@ -51,3 +51,10 @@ The citation for the work:
 1. Siemens MAGNET v2020.2
 2. Python 3
 3. Tensorflow 2
+
+**Additional Code in `development` branch**
+* This branch includes scripting code using open source EM solver : [FEMM](https://www.femm.info/wiki/HomePage)
+* Additional files are addded for design doamin of size:
+  * 7X7
+  * 8X8
+  * 9X9
